@@ -1,5 +1,4 @@
-# Unauthenticated Denial of Service in DLink consumer DIR 819 A1 router 
-
+# CVE-2022-40946 Exploit: Unauthenticated Denial of Service in DLink consumer DIR 819 A1 routers
 
 ## Exploit 
 
